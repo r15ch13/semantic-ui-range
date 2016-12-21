@@ -1,0 +1,19 @@
+{
+  "name": "semantic-ui-range",
+  "version": "1.0.0",
+  "description": "Add-on range slider for Semantic UI",
+  "main": "range.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r15ch13/semantic-ui-range.git"
+  },
+  "author": "Tyler Yasaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r15ch13/semantic-ui-range/issues"
+  },
+  "homepage": "https://github.com/r15ch13/semantic-ui-range#readme"
+}
